@@ -1,14 +1,14 @@
 - **Description**
 
-- Script for rarefaction analysis. 1) rarefy data 2) plot rarefaction curve
+  - Script for rarefaction analysis. 1) rarefy data 2) plot rarefaction curve
 
-  - **Example**
+- **Example**
   
   ```
   Rscript rarefy.main.r
   ```
-  
-   - **Usage**
+
+- **Usage**
 
   ```
   Rscript rarefy.main.r infile depth step
@@ -18,7 +18,6 @@
   Rscript rarefy.main.r otu_table.txt max 10
   
   Rscript rarefy.main.r otu_table.txt median 10
-
   ```
   
   
